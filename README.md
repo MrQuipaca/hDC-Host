@@ -1,2 +1,2 @@
 # hDC-Host
-This is a simple wel designed website developed with HTML and CSS
+This is a simple well designed website developed with HTML and CSS
